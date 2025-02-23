@@ -6,7 +6,6 @@ public class Person {
     private double height;
     private double weight;
 
-
     public Person(String name, int age, double height, double weight) {
         setName(name);
         setAge(age);
